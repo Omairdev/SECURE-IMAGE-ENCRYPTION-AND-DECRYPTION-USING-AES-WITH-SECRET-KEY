@@ -1,0 +1,5 @@
+pandas
+flask
+pillow
+openpyxl
+pycryptodome
